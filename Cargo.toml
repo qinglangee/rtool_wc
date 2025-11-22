@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 unicode-segmentation = "1.10"
+glob = "0.3"

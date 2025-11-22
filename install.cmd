@@ -1,1 +1,1 @@
-xcopy target\release\zhwc.exe d:\software\zhtool\
+xcopy /Y target\release\*.exe d:\software\zhtool\
